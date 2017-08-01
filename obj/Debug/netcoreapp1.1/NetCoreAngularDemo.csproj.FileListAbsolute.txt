@@ -1,0 +1,8 @@
+D:\NetcoreSource\NetCoreAngularDemo\bin\Debug\netcoreapp1.1\NetCoreAngularDemo.deps.json
+D:\NetcoreSource\NetCoreAngularDemo\bin\Debug\netcoreapp1.1\NetCoreAngularDemo.runtimeconfig.json
+D:\NetcoreSource\NetCoreAngularDemo\bin\Debug\netcoreapp1.1\NetCoreAngularDemo.runtimeconfig.dev.json
+D:\NetcoreSource\NetCoreAngularDemo\bin\Debug\netcoreapp1.1\NetCoreAngularDemo.dll
+D:\NetcoreSource\NetCoreAngularDemo\bin\Debug\netcoreapp1.1\NetCoreAngularDemo.pdb
+D:\NetcoreSource\NetCoreAngularDemo\obj\Debug\netcoreapp1.1\NetCoreAngularDemo.AssemblyInfo.cs
+D:\NetcoreSource\NetCoreAngularDemo\obj\Debug\netcoreapp1.1\NetCoreAngularDemo.dll
+D:\NetcoreSource\NetCoreAngularDemo\obj\Debug\netcoreapp1.1\NetCoreAngularDemo.pdb
